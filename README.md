@@ -1,1 +1,1 @@
-# CSharp-Fundamentals
+The Programming Fundamentals course is the next step in SoftUni's software engineering program, building on the basics learned in Programming Basics. It covers more advanced programming concepts such as arrays, lists, objects, and classes. The course also introduces essential web development technologies like HTML, CSS, and HTTP.
